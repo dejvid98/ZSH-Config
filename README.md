@@ -2,7 +2,10 @@
 Config for ZSH terminal/shell
 
 ## Dependencies
--Nerd fonts
--Zsh
--Powerlevel9k/10k
--lsd
+1)Nerd fonts
+
+2)Zsh
+
+3)Powerlevel9k/10k
+
+4)lsd
