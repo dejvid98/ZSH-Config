@@ -1,6 +1,8 @@
 # ZSH-Config
 Config for ZSH terminal/shell
 
+![preview](https://i.imgur.com/mvx0WYy.png)
+
 ## Dependencies
 1)Nerd fonts
 
